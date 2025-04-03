@@ -4,9 +4,7 @@ import './App.css'
 
 function App() {
   return (
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+    <>
 
     <div className="App">
       <div>
@@ -48,6 +46,7 @@ function App() {
       </p>
     </div>
   )
-}
-
-export default App
+    </div>
+    </>
+  )
+export default App;
