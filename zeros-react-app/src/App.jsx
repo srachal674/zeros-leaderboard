@@ -13,37 +13,8 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Zeros Cleared Leaderboard</h1>
-      <p>Updated: March 27, 2025</p>
-
-      <div className="tier gold">
-        <h2>🥇 Gold Tier (5+ Zeros Cleared)</h2>
-        <ul>
-          <li>Student 1</li>
-          <li>Student 2</li>
-        </ul>
-      </div>
-
-      <div className="tier silver">
-        <h2>🥈 Silver Tier (3–4 Zeros Cleared)</h2>
-        <ul>
-          <li>Sierra L.</li>
-        </ul>
-      </div>
-
-      <div className="tier bronze">
-        <h2>🥉 Bronze Tier (1–2 Zeros Cleared)</h2>
-        <ul>
-          <li>Jordan B.</li>
-          <li>Alyssa W.</li>
-        </ul>
-      </div>
-
-      <p className="challenge">
-        Can you make it on the board next week?
-      </p>
       <h1>🏆 Zeros Cleared Leaderboard</h1>
-        <p>Updated: March 27, 2025</p>
+        <p>Updated: April, 2 2025</p>
 
       <div class="tier gold">
         <h2>🥇 Gold Tier (5+ Zeros Cleared)</h2>
@@ -56,15 +27,15 @@ function App() {
       <div class="tier silver">
         <h2>🥈 Silver Tier (3–4 Zeros Cleared)</h2>
         <ul>
-          <li>Sierra L.</li>
+          <li>Student 1</li>
         </ul>
       </div>
 
       <div class="tier bronze">
         <h2>🥉 Bronze Tier (1–2 Zeros Cleared)</h2>
         <ul>
-          <li>Jordan B.</li>
-          <li>Alyssa W.</li>
+        <li>Student 1</li>
+        <li>Student 2</li>
         </ul>
       </div>
 
