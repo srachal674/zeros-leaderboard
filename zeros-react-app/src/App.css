@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-  color: #FFB612; /* McNeese gold */
+  color: #FFD204; /* McNeese gold */
 }
 
 .tier {
@@ -15,7 +15,7 @@ h1 {
   padding: 20px;
   max-width: 500px;
   border-radius: 12px;
-  background-color: #ffffff;
+  background-color: #00529b; /* McNeese blue */
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
 }
 
