@@ -4,6 +4,10 @@ import './App.css'
 
 function App() {
   return (
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
     <div className="App">
       <div>
         <a href="https://vitejs.dev" target="_blank">

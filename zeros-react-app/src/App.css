@@ -11,7 +11,7 @@ body {
 
 h1 {
   color: #FFD204; /* McNeese gold */
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font-family:Impact, permanent-marker-regular, sans-serif;
   font-size: 10em;
   text-shadow: #00529b 2px 2px 4px; 
   margin-bottom: 20px;
@@ -52,4 +52,10 @@ li {
   font-weight: bold;
   font-size: 1.1em;
   margin-top: 40px;
+}
+
+.permanent-marker-regular {
+  font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
 }
