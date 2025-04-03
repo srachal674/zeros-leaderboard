@@ -11,6 +11,10 @@ body {
 
 h1 {
   color: #FFD204; /* McNeese gold */
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font: size 4em;
+  text-shadow: #00529b 2px 2px 4px; 
+  margin-bottom: 20px;
 }
 
 .tier {
