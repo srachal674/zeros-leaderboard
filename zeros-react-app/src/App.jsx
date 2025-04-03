@@ -4,8 +4,7 @@ import './App.css'
 
 function App() {
   return (
-    <>
-
+    
     <div className="App">
       <div>
         <a href="https://vitejs.dev" target="_blank">
@@ -46,7 +45,6 @@ function App() {
       </p>
     </div>
   )
-    </div>
-    </>
-  )
-export default App;
+}
+
+export default App
