@@ -15,7 +15,7 @@ function App() {
         </a>
       </div>
       <h1>🏆 Zeros Cleared Leaderboard</h1>
-        <p>Updated: April, 2 20</p>
+        <p>Updated: April, 2 2025</p>
 
       <div class="tier gold">
         <h2>🥇 Gold Tier (5+ Zeros Cleared)</h2>
